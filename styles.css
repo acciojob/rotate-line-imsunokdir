@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body{
+	height:90vh;
+	padding:0;
+	margin:0;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.main{
+	height:100%;
+	width:500px;
+	background-color:lightgray;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+#line{
+	height:5px;
+	width:50%;
+	background-color:black;
+	transform:rotate(0deg)
+}
