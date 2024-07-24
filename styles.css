@@ -17,6 +17,7 @@ body{
 }
 
 #line{
+	position:absolute;
 	height:5px;
 	width:50%;
 	background-color:black;
